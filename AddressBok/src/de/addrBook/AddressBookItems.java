@@ -3,6 +3,10 @@ package de.addrBook;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import de.addrBook.Address;
+import de.addrBook.AddressBookItem;
+import de.addrBook.Person;
+
 public class AddressBookItems {
 	
 
